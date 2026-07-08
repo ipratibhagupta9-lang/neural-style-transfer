@@ -45,7 +45,8 @@ After running the command, open the local URL displayed in the terminal.
 ```text
 neural-style-transfer-webapp/
 │── neural_style_transfer1.py
-│── Screenshot
+│── Screenshot1
+│── Screenshot2
 └── README.md
 ```
 
